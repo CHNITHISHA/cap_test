@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 b edited 2
+=======
+b edited
+>>>>>>> b2
